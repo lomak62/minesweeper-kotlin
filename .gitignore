@@ -1,0 +1,95 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper (Kotlin)/task/build/
+/Minesweeper (Kotlin)/task/out/
+/Minesweeper (Kotlin)/task/out/production/classes/
+/Topics/Characters/Previous character/out/
+/Topics/Characters/Previous character/out/production/classes/
+/Topics/CharSequence/Only alphabetic characters/out/
+/Topics/CharSequence/Only alphabetic characters/out/production/classes/
+/Topics/CharSequence/Where is the palindrome/out/
+/Topics/CharSequence/Where is the palindrome/out/production/classes/
+/Topics/Declaring functions/Right equation/out/
+/Topics/Declaring functions/Right equation/out/production/classes/
+/Topics/Default arguments/Car speed/out/
+/Topics/Default arguments/Car speed/out/production/classes/
+/Topics/Enum/Rainbow colors/out/
+/Topics/Enum/Rainbow colors/out/production/classes/
+/Topics/Enum/The rainbow order/out/
+/Topics/Enum/The rainbow order/out/production/classes/
+/Topics/Extension functions/Delegation/out/
+/Topics/Extension functions/Delegation/out/production/classes/
+/Topics/Extension functions/Last digit/out/
+/Topics/Extension functions/Last digit/out/production/classes/
+/Topics/Floating-point types/Area of a circle/out/
+/Topics/Floating-point types/Area of a circle/out/production/classes/
+/Topics/For loop and lists/Circular shift/out/
+/Topics/For loop and lists/Circular shift/out/production/classes/
+/Topics/For loop and lists/Number in a set/out/
+/Topics/For loop and lists/Number in a set/out/production/classes/
+/Topics/For loop and ranges/Count the numbers/out/
+/Topics/For loop and ranges/Count the numbers/out/production/classes/
+/Topics/For loop and ranges/Fizz Buzz/out/
+/Topics/For loop and ranges/Fizz Buzz/out/production/classes/
+/Topics/Getting substrings/Exchange/out/
+/Topics/Getting substrings/Exchange/out/production/classes/
+/Topics/Hierarchy of exceptions/RuntimeException/out/
+/Topics/Hierarchy of exceptions/RuntimeException/out/production/classes/
+/Topics/Integers in action/The first digit of a two-digit number/out/
+/Topics/Integers in action/The first digit of a two-digit number/out/production/classes/
+/Topics/Introduction to MutableList/Swap/out/
+/Topics/Introduction to MutableList/Swap/out/production/classes/
+/Topics/Jumps and returns/Unique characters/out/
+/Topics/Jumps and returns/Unique characters/out/production/classes/
+/Topics/Member functions/Arithmetic operations/out/
+/Topics/Member functions/Arithmetic operations/out/production/classes/
+/Topics/Multi-dimensional list/Shapeshifter/out/
+/Topics/Multi-dimensional list/Shapeshifter/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Generating passwords/out/
+/Topics/Processing strings/Generating passwords/out/production/classes/
+/Topics/Property accessors/Weather comparison/out/
+/Topics/Property accessors/Weather comparison/out/production/classes/
+/Topics/Random/Predictable  random  password/out/
+/Topics/Random/Predictable  random  password/out/production/classes/
+/Topics/Random/Roll the dice/out/
+/Topics/Random/Roll the dice/out/production/classes/
+/Topics/Random/RPG dices/out/
+/Topics/Random/RPG dices/out/production/classes/
+/Topics/Random/Verification code/out/
+/Topics/Random/Verification code/out/production/classes/
+/Topics/Reading data with a readln/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with a readln/How to learn the whole Kotlin per one task/out/production/classes/
+/Topics/Repeating blocks/Grades/out/
+/Topics/Repeating blocks/Grades/out/production/classes/
+/Topics/Standard input with Java Scanner/Printing each word in a new line/out/
+/Topics/Standard input with Java Scanner/Printing each word in a new line/out/production/classes/
+/Topics/Standard output/First, second, third/out/
+/Topics/Standard output/First, second, third/out/production/classes/
+/Topics/String basics/I'm learning Kotlin/out/
+/Topics/String basics/I'm learning Kotlin/out/production/classes/
+/Topics/String formatting/Dynamic Double formatting/out/
+/Topics/String formatting/Dynamic Double formatting/out/production/classes/
+/Topics/String formatting/Octal and hexadecimal/out/
+/Topics/String formatting/Octal and hexadecimal/out/production/classes/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/The try-catch-finally statement/Complex handling/out/
+/Topics/The try-catch-finally statement/Complex handling/out/production/classes/
+/Topics/Type conversion/Lie detector/out/
+/Topics/Type conversion/Lie detector/out/production/classes/
+/Topics/When expression/Harry Potter/out/
+/Topics/When expression/Harry Potter/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/The first position of the largest element/out/
+/Topics/While loops/The first position of the largest element/out/production/classes/
+/Topics/Work with MutableLists/Guard On The Gate/out/
+/Topics/Work with MutableLists/Guard On The Gate/out/production/classes/
+/Topics/Work with MutableLists/Playing with numbers/out/
+/Topics/Work with MutableLists/Playing with numbers/out/production/classes/
+/Topics/Working with strings/Operations and truth/out/
+/Topics/Working with strings/Operations and truth/out/production/classes/
+/Topics/Working with strings/The same line/out/
+/Topics/Working with strings/The same line/out/production/classes/
